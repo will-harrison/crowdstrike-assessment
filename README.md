@@ -1,4 +1,4 @@
-# CrowdStrike Front End Assessment for Will Harrison
+# CS Front End Assessment for Will Harrison
 
 ### This is a fairly fully built React application. I used the React Context API to manage application state, and React hooks to manage component state.
 
